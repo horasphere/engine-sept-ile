@@ -1,0 +1,43 @@
+*.class
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea/
+*.iml
+intelcom-web/front-end/dist
+intelcom-web/front-end/build
+intelcom-web/front-end/node_modules
+
+
+# IDE #
+#######
+.idea/
+target/
+.classpath
+.settings/
+.project
+*.iml
+
+# Config Hora #
+#############
+node_modules/
+horajs/assets
+bower_components/
+dist/
+target-grunt/
+build.xml
+_assets/
+poc/
+bin/
+
+_assets/
